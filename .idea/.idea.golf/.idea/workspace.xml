@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Add sample project">
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Fir_Tree.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Fir_Tree.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Oak_Tree.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Oak_Tree.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Palm_Tree.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Palm_Tree.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Poplar_Tree.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Poplar_Tree.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Oak_Tree.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Oak_Tree.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Poplar_Tree.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Poplar_Tree.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures/tree_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures/tree_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Environment Pack Free Forest Sample Readme v1.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Environment Pack Free Forest Sample Readme v1.0.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage/forestpack_foliage.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage/forestpack_foliage.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge/forestpack_roadSignAndBridge.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge/forestpack_roadSignAndBridge.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_lighter.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_lighter.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_night.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_night.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone/forestpack_stone.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone/forestpack_stone.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_treeStumpAndRoot.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_treeStumpAndRoot.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_fir.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_fir.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_leaf.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_leaf.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage/forestpack_foliage_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage/forestpack_foliage_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge/forestpack_roadSignAndBridge_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge/forestpack_roadSignAndBridge_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone/forestpack_stone_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone/forestpack_stone_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_treeStumpAndRoot_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_treeStumpAndRoot_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_fir_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_fir_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_leaf_low.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_leaf_low.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_2.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_2.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1_meshCollider.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1_meshCollider.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign/forestpack_roadSign_westEast_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign/forestpack_roadSign_westEast_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_large_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_large_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_medium_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_medium_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir/forestpack_tree_fir_tall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir/forestpack_tree_fir_tall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal/forestpack_tree_1_leaf_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal/forestpack_tree_1_leaf_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump/forestpack_tree_stump_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump/forestpack_tree_stump_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_blue_big.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_blue_big.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_red_small.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_red_small.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign/Mobile_forestpack_roadSign_westEast_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign/Mobile_forestpack_roadSign_westEast_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_large_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_large_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_medium_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_medium_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir/Mobile_forestpack_tree_fir_tall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir/Mobile_forestpack_tree_fir_tall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal/Mobile_forestpack_tree_1_leaf_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal/Mobile_forestpack_tree_1_leaf_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump/Mobile_forestpack_tree_stump_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump/Mobile_forestpack_tree_stump_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/AllFreeForestSampleAssets.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/AllFreeForestSampleAssets.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy/CelShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy/CelShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShader.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShader.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShaderLighting.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShaderLighting.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_moss_light_terrainlayer.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_moss_light_terrainlayer.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_road_terrailayer.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_road_terrailayer.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_rock_terrainlayer.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_rock_terrainlayer.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains/DemoTerrain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains/DemoTerrain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage/forestpack_foliage_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage/forestpack_foliage_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_moss_light_tile_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_moss_light_tile_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_road_tile_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_road_tile_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_texture_rock_tile_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_texture_rock_tile_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp/sharedTexture_shadowRamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp/sharedTexture_shadowRamp.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge/forestpack_roadSignAndBridge_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge/forestpack_roadSignAndBridge_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nx.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/ny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/ny.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nz.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/px.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/py.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/py.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/pz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/pz.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone/forestpack_stone_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone/forestpack_stone_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir/forestpack_tree_fir_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir/forestpack_tree_fir_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf/forestpack_tree_leaf_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf/forestpack_tree_leaf_diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump/forestpack_treeStumpAndRoot_diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump/forestpack_treeStumpAndRoot_diffuse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Terrain 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain 1.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/c3/bcdadaa9/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/26/d5bf7611/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/97/435dc941/Component.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sArEcsGQJHV5CqveSxpitiKkeh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="" />
+      <created>1620326126709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620326126709</updated>
+      <workItem from="1620326132287" duration="5537000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add gitignore">
+      <created>1620363452723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620363452723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add sample project">
+      <created>1620363484671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620363484672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add sample project">
+      <created>1620363595362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620363595362</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add gitignore" />
+    <MESSAGE value="Add sample project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sample project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1620363792291">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/72.34.1848.1046@72.34.1848.1046" timestamp="1620363792291" />
+    <state x="172" y="134" width="1648" height="846" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620367493179">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="172" y="134" width="1648" height="846" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/72.34.1848.1046@72.34.1848.1046" timestamp="1620367493179" />
+  </component>
+</project>
