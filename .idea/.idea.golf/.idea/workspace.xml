@@ -10,266 +10,961 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Add sample project">
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Fir_Tree.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Fir_Tree.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/Free_Tree.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/No Name.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Materials/No Name.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Oak_Tree.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Oak_Tree.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Palm_Tree.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Palm_Tree.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Poplar_Tree.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Meshes/Poplar_Tree.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Fir_Tree.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Oak_Tree.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Oak_Tree.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Palm_Tree.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Poplar_Tree.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Prefabs/Poplar_Tree.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes/Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Scenes/Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures/tree_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Darth_Artisan/Free_Trees/Textures/tree_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Environment Pack Free Forest Sample Readme v1.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Environment Pack Free Forest Sample Readme v1.0.pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage/forestpack_foliage.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Foliage/forestpack_foliage.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge/forestpack_roadSignAndBridge.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/SignAndBridge/forestpack_roadSignAndBridge.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_lighter.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_lighter.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_night.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Skybox/forestpack_skybox_night.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone/forestpack_stone.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Stone/forestpack_stone.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_treeStumpAndRoot.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_treeStumpAndRoot.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_fir.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_fir.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_leaf.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/High Quality/Tree/forestpack_tree_leaf.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage/forestpack_foliage_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Foliage/forestpack_foliage_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge/forestpack_roadSignAndBridge_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/SignAndBridge/forestpack_roadSignAndBridge_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone/forestpack_stone_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Stone/forestpack_stone_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_treeStumpAndRoot_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_treeStumpAndRoot_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_fir_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_fir_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_leaf_low.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Materials/Mobile/Tree/forestpack_tree_leaf_low.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_2.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Grass/forestpack_foliage_grassPatch_small_2.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/SignAndBridge/forestpack_roadSign_westEast_1_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_large_1_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Stone/forestpack_stone_medium_1_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Fir/forestpack_tree_fir_tall_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Leaf/forestpack_tree_1_leaf_1_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1_meshCollider.FBX" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Models/Tree/Treestump/forestpack_tree_stump_1_meshCollider.FBX.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Grass/forestpack_foliage_grassPatch_small_2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_blue_big.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Foliage/Mushroom/forestpack_foliage_mushroom_red_small.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign/forestpack_roadSign_westEast_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Sign/forestpack_roadSign_westEast_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_large_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_large_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_medium_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Stone/forestpack_stone_medium_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir/forestpack_tree_fir_tall.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Fir/forestpack_tree_fir_tall.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal/forestpack_tree_1_leaf_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Leaf/Normal/forestpack_tree_1_leaf_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump/forestpack_tree_stump_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/High Quality/Tree/Treestump/forestpack_tree_stump_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_2.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Grass/Mobile_forestpack_foliage_grassPatch_small_2.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_blue_big.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_blue_big.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_red_small.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Foliage/Mushroom/Mobile_forestpack_foliage_mushroom_red_small.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign/Mobile_forestpack_roadSign_westEast_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Sign/Mobile_forestpack_roadSign_westEast_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_large_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_large_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_medium_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Stone/Mobile_forestpack_stone_medium_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir/Mobile_forestpack_tree_fir_tall.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Fir/Mobile_forestpack_tree_fir_tall.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal/Mobile_forestpack_tree_1_leaf_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Leaf/Normal/Mobile_forestpack_tree_1_leaf_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump/Mobile_forestpack_tree_stump_1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Prefabs/Mobile/Tree/Treestump/Mobile_forestpack_tree_stump_1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/AllFreeForestSampleAssets.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/AllFreeForestSampleAssets.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/BrightDay/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Scenes/MoodyNight/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy/CelShader.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/Legacy/CelShader.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShader.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShader.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShaderLighting.cginc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Shaders/SupercyanShaderLighting.cginc.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_moss_light_terrainlayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_moss_light_terrainlayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_road_terrailayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_road_terrailayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_rock_terrainlayer.terrainlayer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/TerrainLayers/forestpack_rock_terrainlayer.terrainlayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains/DemoTerrain.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Terrains/DemoTerrain.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage/forestpack_foliage_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Foliage/forestpack_foliage_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_moss_light_tile_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_moss_light_tile_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_road_tile_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_road_tile_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_texture_rock_tile_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ground/forestpack_texture_rock_tile_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp/sharedTexture_shadowRamp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Ramp/sharedTexture_shadowRamp.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge/forestpack_roadSignAndBridge_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/SignAndBridge/forestpack_roadSignAndBridge_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nx.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/ny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/ny.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/nz.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/px.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/py.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/py.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/pz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Skybox/pz.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone/forestpack_stone_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Stone/forestpack_stone_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir/forestpack_tree_fir_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Fir/forestpack_tree_fir_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf/forestpack_tree_leaf_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Leaf/forestpack_tree_leaf_diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump/forestpack_treeStumpAndRoot_diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Supercyan Free Forest Sample/Textures/Tree/Treestump/forestpack_treeStumpAndRoot_diffuse.png.meta" afterDir="false" />
+    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/BasicAuthenticator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/BasicAuthenticator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/Mirror.Authenticators.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/Mirror.Authenticators.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/TimeoutAuthenticator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Authenticators/TimeoutAuthenticator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ApiConnector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ApiConnector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/BaseApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/BaseApi.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Events.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Events.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Extensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/ICoroutineRunner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/ICoroutineRunner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/IRequestCreator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/IRequestCreator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/IUnityEqualCheck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/IUnityEqualCheck.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/JsonStructs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/JsonStructs.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Logger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/Logger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/RequestCreator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Core/RequestCreator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerBaseApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerBaseApi.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerClientApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerClientApi.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerJson.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerJson.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerServerApi.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/ListServer/ListServerServerApi.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Mirror.Cloud.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/Mirror.Cloud.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Cloud/version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/CompilerSymbols.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/CompilerSymbols/Mirror.CompilerSymbols.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/CompilerSymbols/Mirror.CompilerSymbols.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/CompilerSymbols/PreprocessorDefine.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/CompilerSymbols/PreprocessorDefine.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscovery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscovery.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryHUD.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryHUD.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/ServerRequest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/ServerRequest.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/ServerResponse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Discovery/ServerResponse.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkLerpRigidbody.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkLerpRigidbody.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkRigidbody.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkRigidbody.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkRigidbody2D.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkRigidbody2D.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransformBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransformBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransformChild.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Experimental/NetworkTransformChild.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/GUIConsole.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/GUIConsole.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/Distance.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/Distance/DistanceInterestManagement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/Distance/DistanceInterestManagement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/SpatialHashing.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/SpatialHashing/Grid2D.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/SpatialHashing/Grid2D.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/SpatialHashing/SpatialHashingInterestManagement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/InterestManagement/SpatialHashing/SpatialHashingInterestManagement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Mirror.Components.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/Mirror.Components.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkAnimator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkLobbyManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkLobbyManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkLobbyPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkLobbyPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkMatchChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkMatchChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkOwnerChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkOwnerChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkPingDisplay.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkPingDisplay.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkProximityChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkProximityChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkSceneChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkSceneChecker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformChild.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformChild.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/EditorHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/EditorHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/EnterPlayModeSettingsCheck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/EnterPlayModeSettingsCheck.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/InspectorHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/InspectorHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/LogLevelWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/LogLevelWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogLevelWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogLevelWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogLevelsGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogLevelsGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogSettingsEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/LogSettingsEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/NetworkLogSettingsEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Logging/NetworkLogSettingsEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Mirror.Editor.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Mirror.Editor.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkBehaviourInspector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkBehaviourInspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkInformationPreview.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkInformationPreview.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkManagerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkManagerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkScenePostProcess.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/NetworkScenePostProcess.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/SceneDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/SceneDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/ScriptableObjectUtility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/ScriptableObjectUtility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/SyncVarAttributeDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/SyncVarAttributeDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/CompilationFinishedHook.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/CompilationFinishedHook.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Extensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Helpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Helpers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Log.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Mirror.Weaver.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Mirror.Weaver.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/CommandProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/CommandProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/GenericArgumentResolver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/GenericArgumentResolver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MessageClassProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MessageClassProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MethodProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MethodProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MonoBehaviourProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/MonoBehaviourProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/NetworkBehaviourProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/NetworkBehaviourProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/PropertySiteProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/PropertySiteProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/ReaderWriterProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/ReaderWriterProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/RpcProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/RpcProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/ServerClientAttributeProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/ServerClientAttributeProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncDictionaryProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncDictionaryProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncEventProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncEventProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncListProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncListProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncObjectInitializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncObjectInitializer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncObjectProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncObjectProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncVarProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/SyncVarProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/TargetRpcProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/TargetRpcProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Program.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Readers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Readers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Resolvers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Resolvers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/TypeReferenceComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/TypeReferenceComparer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Weaver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Weaver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/WeaverExceptions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/WeaverExceptions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/WeaverTypes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/WeaverTypes.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Writers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Writers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/AnimationControllers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/AnimationControllers/Tank.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/AnimationControllers/Tank.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Capsule.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Capsule.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Cube.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Cube.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Cylinder.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Cylinder.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Player.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Player.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Quad.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Quad.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Shelter.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Shelter.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Sphere.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Sphere.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Zone.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Materials/Zone.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Capsule.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Capsule.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cube.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cube.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cylinder.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Cylinder.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Sphere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Sphere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Tank.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Tank.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Zone.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Prefabs/Zone.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scenes/MainScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scenes/MainScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scenes/SubScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scenes/SubScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/AdditiveNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/AdditiveNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/RandomColor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/RandomColor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/ShootingTankBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/ShootingTankBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/ZoneHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/AdditiveScenes/Scripts/ZoneHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Prefabs/PlayerUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Prefabs/PlayerUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scenes/Example.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scenes/Example.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/BasicNetManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/BasicNetManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/PlayerUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Basic/Scripts/PlayerUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Materials/Red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Materials/Red.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Materials/White.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Materials/White.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Prefabs/Monster.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Prefabs/Monster.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scenes/Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scenes/Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/BenchmarkNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/BenchmarkNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/MonsterMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/MonsterMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Benchmark/Scripts/PlayerMovement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/ChatNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/ChatNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/ChatWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/ChatWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Chat/Scripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Prefabs/ListServer Canvas.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Prefabs/ListServer Canvas.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Prefabs/ServerListItem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Prefabs/ServerListItem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ApiUpdater.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ApiUpdater.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/InstantiateNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/InstantiateNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/Mirror.Examples.Cloud.GUI.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/Mirror.Examples.Cloud.GUI.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/NetworkManagerListServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/NetworkManagerListServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/QuickListServerDebug.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/QuickListServerDebug.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/QuitButtonHUD.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/QuitButtonHUD.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListUIItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/GUI/Scripts/ServerListUIItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/PhysicsMaterials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/PhysicsMaterials/BallMaterial.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/PhysicsMaterials/BallMaterial.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/Ball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/Ball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/NetworkManagerPong.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/NetworkManagerPong.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/Racket.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Prefabs/Racket.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scenes/ListServerLobbyScenePong.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scenes/ListServerLobbyScenePong.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scenes/PongGameScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scenes/PongGameScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Ball.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Ball.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/BallManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/BallManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Mirror.Examples.Cloud.Pong.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Mirror.Examples.Cloud.Pong.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/NetworkManagerListServerPong.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/NetworkManagerListServerPong.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Scripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Ball.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/DottedLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/DottedLine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Racket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/Racket.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallHorizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallHorizontal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallVertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/PongWithListServer/Sprites/WallVertical.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Prefabs/TanksNetworkManager.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Prefabs/TanksNetworkManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Scenes/ListServerLobbySceneTanks.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Cloud/TanksWithListServer/Scenes/ListServerLobbySceneTanks.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Scenes/Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Discovery/Scenes/Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Mirror.Examples.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Mirror.Examples.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/Icosphere.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/Icosphere.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/Player.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/Player.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/RoomBounce.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Physics/RoomBounce.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/PlayArea.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/PlayArea.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/Player.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/Player.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/Prize.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Materials/Render/Prize.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Icosphere.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Icosphere.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Materials/Icosphere.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Models/Icosphere/Materials/Icosphere.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Icosphere.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Icosphere.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Prize.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Prefabs/Prize.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scenes/Game.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scenes/Game.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/MultiSceneNetManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/MultiSceneNetManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PhysicsCollision.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PhysicsCollision.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PhysicsSimulator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PhysicsSimulator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/PlayerScore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/RandomColor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/RandomColor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/Reward.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/Reward.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/Spawner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleAdditiveScenes/Scripts/Spawner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/CellGUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/CellGUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchController.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchController.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchGUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchGUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchPlayer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/MatchPlayer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/PlayerGUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Prefabs/PlayerGUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/CanvasController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/CanvasController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/CellGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/CellGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchMessages.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchMessages.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/MatchNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/PlayerGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/PlayerGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/RoomGUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/MultipleMatches/Scripts/RoomGUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/PhysicsMaterials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/PhysicsMaterials/BallMaterial.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/PhysicsMaterials/BallMaterial.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Prefabs/Ball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Prefabs/Ball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Prefabs/Racket.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Prefabs/Racket.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scenes/Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scenes/Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/NetworkManagerPong.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/NetworkManagerPong.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/Ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/Ball.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/DottedLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/DottedLine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/Racket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/Racket.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/WallHorizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/WallHorizontal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/WallVertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Sprites/WallVertical.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Blue.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Materials/Red.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/PhysicMaterials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/PhysicMaterials/Ball.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/PhysicMaterials/Ball.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/PhysicMaterials/Floor.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/PhysicMaterials/Floor.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Prefabs/Empty Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Prefabs/Empty Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scenes/BounceScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scenes/BounceScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scripts/AddForce.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/RigidbodyPhysics/Scripts/AddForce.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/PlayArea.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/PlayArea.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Player.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Player.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Prize.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Prize.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Textures/Wall01.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Textures/Wall01.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Textures/Wall01_n.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Materials/Textures/Wall01_n.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/GamePlayer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/GamePlayer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/Prize.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/Prize.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/RoomPlayer.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Prefabs/RoomPlayer.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/OfflineScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/OfflineScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/OnlineScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/OnlineScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/RoomScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scenes/RoomScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/NetworkRoomManagerExt.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/NetworkRoomManagerExt.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/NetworkRoomPlayerExt.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/NetworkRoomPlayerExt.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/PlayerScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/PlayerScore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/RandomColor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/RandomColor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/Reward.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/Reward.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/Spawner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Room/Scripts/Spawner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Controller.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Controller.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Emissive.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Recon_Tank - License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/Recon_Tank - License.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/TankMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/TankMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/reconTank.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Models/(Public Domain) Recon_Tank/reconTank.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Prefabs/Projectile.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Prefabs/Projectile.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Prefabs/Tank.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Prefabs/Tank.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes/Scene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes/Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes/Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes/Scene/NavMesh.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scenes/Scene/NavMesh.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Projectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Projectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Tank.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Scripts/Tank.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/Dirt Hand Painted Texture - License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/Dirt Hand Painted Texture - License.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/Dirt.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/Dirt.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/dirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/(Public Domain) Dirt Hand Painted Texture/dirt.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/ProjectileMaterial.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Examples/Tanks/Textures/ProjectileMaterial.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Icon.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Icon/MirrorIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Icon/MirrorIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Notice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Notice.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/License.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Mdb.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Pdb.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.Rocks.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Plugins/Mono.Cecil/Mono.CecilX.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Attributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Attributes.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/ClientScene.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/ClientScene.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Compression.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Compression.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/DotNetCompatibility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/DotNetCompatibility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/LogFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/LogFactory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/LogFilter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/LogFilter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/ConsoleColorLogHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/ConsoleColorLogHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/EditorLogSettingsLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/EditorLogSettingsLoader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/LogFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/LogFactory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/LogSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/LogSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/NetworkHeadlessLogger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/NetworkHeadlessLogger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/NetworkLogSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/Logging/NetworkLogSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/StringHash.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Empty/StringHash.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/ExponentialMovingAverage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/ExponentialMovingAverage.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Extensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Extensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/InterestManagement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/InterestManagement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/LocalConnections.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/LocalConnections.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/MessagePacking.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/MessagePacking.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Messages.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Messages.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Mirror.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Mirror.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkAuthenticator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkAuthenticator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkClient.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnectionToClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnectionToClient.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnectionToServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnectionToServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkDiagnostics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkDiagnostics.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkIdentity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkIdentity.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkLoop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkLoop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManagerHUD.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManagerHUD.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkMessage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkMessage.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkReader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkReader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkReaderPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkReaderPool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkStartPosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkStartPosition.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkTime.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkTime.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkVisibility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkVisibility.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkWriter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkWriter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkWriterPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkWriterPool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Pool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Pool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/RemoteCallHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/RemoteCallHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncDictionary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncDictionary.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncList.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncSet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/SyncSet.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/FallbackTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/FallbackTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/MirrorTransport.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/MirrorTransport/KcpTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/MirrorTransport/KcpTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/LICENSE.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/VERSION.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpClient.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpClientConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpClientConnection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpConnection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpHeader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpHeader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpServerConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/KcpServerConnection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/highlevel/Log.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Kcp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Kcp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Segment.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Segment.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp/Utils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp2k.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/KCP/kcp2k/kcp2k.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/LatencySimulation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/LatencySimulation.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/MiddlewareTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/MiddlewareTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/MultiplexTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/MultiplexTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/AssemblyInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/SimpleWebClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/SimpleWebClient.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/ClientHandshake.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/ClientHandshake.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/ClientSslHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/ClientSslHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/WebSocketClientStandAlone.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/StandAlone/WebSocketClientStandAlone.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/SimpleWebJSLib.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/SimpleWebJSLib.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/WebSocketClientWebGl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/WebSocketClientWebGl.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/plugin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/plugin/SimpleWeb.jslib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Client/Webgl/plugin/SimpleWeb.jslib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/BufferPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/BufferPool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Connection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Connection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Constants.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Constants.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/EventType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/EventType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Log.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Message.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Message.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/MessageProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/MessageProcessor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/ReadHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/ReadHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/ReceiveLoop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/ReceiveLoop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/SendLoop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/SendLoop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/TcpConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/TcpConfig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Common/Utils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/README.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/ServerHandshake.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/ServerHandshake.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/ServerSslHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/ServerSslHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/SimpleWebServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/SimpleWebServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/WebSocketServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/Server/WebSocketServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SimpleWebTransport.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SimpleWebTransport.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SimpleWebTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SimpleWebTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SslConfigLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/SimpleWebTransport/SslConfigLoader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Client.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Client.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Common.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Common.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ConnectionState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ConnectionState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/EventType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/EventType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/LICENSE.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Log.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Log.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Logger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Logger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/MagnificentReceivePipe.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/MagnificentReceivePipe.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/MagnificentSendPipe.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/MagnificentSendPipe.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Message.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Message.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/NetworkStreamExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/NetworkStreamExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Pool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Pool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/SafeQueue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/SafeQueue.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Server.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Server.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Telepathy.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Telepathy.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ThreadExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ThreadExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ThreadFunctions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/ThreadFunctions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/Utils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Telepathy/VERSION.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/TelepathyTransport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/TelepathyTransport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Transport.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Transport.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Runtime/Utils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Mirror/Version.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/50-Mirror__Network Manager-NewNetworkManager.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/50-Mirror__Network Manager-NewNetworkManager.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/51-Mirror__Network Authenticator-NewNetworkAuthenticator.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/51-Mirror__Network Authenticator-NewNetworkAuthenticator.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/52-Mirror__Network Behaviour-NewNetworkBehaviour.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/52-Mirror__Network Behaviour-NewNetworkBehaviour.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/53-Mirror__Network Observer-NewNetworkObserver.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/53-Mirror__Network Observer-NewNetworkObserver.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/54-Mirror__Network Room Manager-NewNetworkRoomManager.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/54-Mirror__Network Room Manager-NewNetworkRoomManager.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/55-Mirror__Network Room Player-NewNetworkRoomPlayer.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/55-Mirror__Network Room Player-NewNetworkRoomPlayer.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/56-Mirror__Network Discovery-NewNetworkDiscovery.cs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ScriptTemplates/56-Mirror__Network Discovery-NewNetworkDiscovery.cs.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraNotifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraNotifier.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RandomForce.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RandomForce.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CameraFollow.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/New Terrain 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewLayer 2.terrainlayer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/NewLayer 2.terrainlayer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RandomForce.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RandomForce.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,14 +977,20 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/c3/bcdadaa9/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/26/d5bf7611/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/64/69bfefd9/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/1f/fbaed3d8/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7AD287F7-DFC5-42F8-98B0-0744159C372F/97/435dc941/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/vasyoid/study/gamedev/golf/ProjectSettings/GraphicsSettings.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" />
         <option value="$PROJECT_DIR$/Assets/RandomForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/GolfNetworkManager.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraNotifier.cs" />
       </list>
     </option>
   </component>
@@ -300,12 +1001,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502567" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005705" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/golf.x86_64" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -333,7 +1044,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620326126709</updated>
-      <workItem from="1620326132287" duration="5537000" />
+      <workItem from="1620326132287" duration="5859000" />
+      <workItem from="1622793474052" duration="12000" />
+      <workItem from="1622795069636" duration="4129000" />
+      <workItem from="1622907085169" duration="4310000" />
     </task>
     <task id="LOCAL-00001" summary="Add gitignore">
       <created>1620363452723</created>
@@ -356,7 +1070,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620363595362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add sample project">
+      <created>1620367518444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620367518444</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add sample project">
+      <created>1620367530776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620367530776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,6 +1102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -382,10 +1111,82 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add sample project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1620363792291">
+    <state x="841" y="257" width="667" height="607" key="#xdebugger.XInspectDialog" timestamp="1622796389860">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
-    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/72.34.1848.1046@72.34.1848.1046" timestamp="1620363792291" />
+    <state x="841" y="257" width="667" height="607" key="#xdebugger.XInspectDialog/72.34.1848.1046@72.34.1848.1046" timestamp="1622796389860" />
+    <state x="172" y="134" width="1648" height="846" key="DiffContextDialog" timestamp="1622797937149">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="172" y="134" width="1648" height="846" key="DiffContextDialog/72.34.1848.1046@72.34.1848.1046" timestamp="1622797937149" />
+    <state width="1792" height="355" key="GridCell.Tab.0.bottom" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.0.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.0.center" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.0.center/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.0.left" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.0.left/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.0.right" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.0.right/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.1.bottom" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.1.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.1.center" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.1.center/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.1.left" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.1.left/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.1.right" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.1.right/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.2.bottom" timestamp="1622817192524">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.2.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192524" />
+    <state width="1792" height="355" key="GridCell.Tab.2.center" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.2.center/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.2.left" timestamp="1622817192523">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.2.left/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192523" />
+    <state width="1792" height="355" key="GridCell.Tab.2.right" timestamp="1622817192524">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.2.right/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192524" />
+    <state width="1792" height="355" key="GridCell.Tab.3.bottom" timestamp="1622817192525">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.3.bottom/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192525" />
+    <state width="1792" height="355" key="GridCell.Tab.3.center" timestamp="1622817192525">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.3.center/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192525" />
+    <state width="1792" height="355" key="GridCell.Tab.3.left" timestamp="1622817192525">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.3.left/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192525" />
+    <state width="1792" height="355" key="GridCell.Tab.3.right" timestamp="1622817192525">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state width="1792" height="355" key="GridCell.Tab.3.right/72.34.1848.1046@72.34.1848.1046" timestamp="1622817192525" />
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1620367537828">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/72.34.1848.1046@72.34.1848.1046" timestamp="1620367537828" />
     <state x="172" y="134" width="1648" height="846" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620367493179">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
