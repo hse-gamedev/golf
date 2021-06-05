@@ -15,7 +15,7 @@ public class RandomForce : MonoBehaviour
             Rigidbody rb = gameObject.GetComponent<Rigidbody>();
             Vector3 dir = Random.insideUnitSphere;
             dir.y = Math.Abs(dir.y);
-            rb.AddForce(dir * magnitude);
+            // rb.AddForce(dir * magnitude);
             yield return new WaitForSeconds(delay);
         }
     }
