@@ -10,13 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Tried to control ball from client">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/indexLayout.xml" afterDir="false" />
+    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Implemented message-based communication between server and clients">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfStrategy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfStrategy.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/RandomForce.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BallBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallStrategy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GolfStrategy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" />
       </list>
     </option>
@@ -164,7 +165,8 @@
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Add sample project" />
     <MESSAGE value="Tried to control ball from client" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tried to control ball from client" />
+    <MESSAGE value="Implemented message-based communication between server and clients" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented message-based communication between server and clients" />
   </component>
   <component name="WindowStateProjectService">
     <state x="841" y="257" width="667" height="607" key="#xdebugger.XInspectDialog" timestamp="1622796389860">
@@ -243,10 +245,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="810" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622992353244" />
-    <state x="435" y="195" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1622928718314">
+    <state x="435" y="195" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1622997366469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="435" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622928718314" />
+    <state x="435" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622997366469" />
     <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/72.34.1848.1046@72.34.1848.1046" timestamp="1620367537828" />
     <state x="172" y="134" width="1648" height="846" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1620367493179">
       <screen x="72" y="34" width="1848" height="1046" />

@@ -415,6 +415,7 @@
           <e p="CameraFollow.cs" t="Include" />
           <e p="CameraNotifier.cs" t="Include" />
           <e p="GolfNetworkManager.cs" t="Include" />
+          <e p="GolfStrategy.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="RandomForce.cs" t="Include" />
         </e>

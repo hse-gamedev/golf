@@ -12,8 +12,8 @@ using Random = UnityEngine.Random;
 // The game will start with one player.
 public class GolfNetworkManager : NetworkManager
 {
-    public float BallStopVelocity;
-    public float StrikePower;
+    public float BallStopVelocity = 1.5f;
+    public float StrikePower = 650f;
     
 // ===== SERVER =====
     private int lastTurn = -1;
@@ -39,7 +39,7 @@ public class GolfNetworkManager : NetworkManager
         state = GolfState.WAITING_FOR_BALL_STOP;
         lastTurn = message.Id;
         lastStrikeTime = Time.time;
-        ballObject.GetComponent<Rigidbody>().AddForce(message.Strike);
+        ballObject.GetComponent<Rigidbody>().AddForce(message.Strike * StrikePower);
     }
 
     public override void OnServerConnect(NetworkConnection conn)
@@ -48,7 +48,11 @@ public class GolfNetworkManager : NetworkManager
         var id = conn.connectionId;
         Debug.Log("Connected client on " + id);
         players[id] = conn;
-        conn.Send(new IdMessage { Id = conn.connectionId });
+        
+        // Choose strategy here
+        var strategyName = players.Count == 1 ? "random" : "up";
+        
+        conn.Send(new InitMessage { Id = conn.connectionId, StrategyName = strategyName });
     }
 
     public override void OnServerDisconnect(NetworkConnection conn)
@@ -56,14 +60,29 @@ public class GolfNetworkManager : NetworkManager
         base.OnServerDisconnect(conn);
         players.Remove(conn.connectionId);
     }
-    // ===== CLIENT =====
+
+// ===== CLIENT =====
 
     private NetworkConnection connection;
     private int clientId;
+    private GolfStrategy strategy;
     
-    public void OnIdMessage(NetworkConnection conn, IdMessage message)
+    public void OnInitMessage(NetworkConnection conn, InitMessage message)
     {
         clientId = message.Id;
+        switch (message.StrategyName)
+        {
+            case "random":
+                strategy = new RandomStrategy();
+                break;
+            case "up":
+                strategy = new UpStrategy();
+                break;
+            // Add more strategies here
+            default:
+                strategy = new RandomStrategy();
+                break;
+        }
     }   
     
     public void OnYourTurnMessage(NetworkConnection conn, YourTurnMessage message)
@@ -74,7 +93,7 @@ public class GolfNetworkManager : NetworkManager
     public override void OnStartClient()
     {
         base.OnStartClient();
-        NetworkClient.RegisterHandler<IdMessage>(OnIdMessage);
+        NetworkClient.RegisterHandler<InitMessage>(OnInitMessage);
         NetworkClient.RegisterHandler<YourTurnMessage>(OnYourTurnMessage);
     }
 
@@ -84,10 +103,10 @@ public class GolfNetworkManager : NetworkManager
         connection = conn;
     }
 
+    
     private void SendTurn()
     {
-        Vector3 dir = Random.insideUnitSphere * StrikePower;
-        dir.y = Math.Abs(dir.y);
+        Vector3 dir = strategy.strike();
         Debug.Log("Sending turn");
         connection.Send(new MoveMessage { Strike = dir, Id = clientId});
     }
@@ -120,7 +139,8 @@ public class GolfNetworkManager : NetworkManager
         {
             if (ballObject.GetComponent<Rigidbody>().velocity.magnitude < BallStopVelocity
                 && state == GolfState.WAITING_FOR_BALL_STOP
-                && Time.time - lastStrikeTime > 1.0f)
+                && Time.time - lastStrikeTime > 0.5f
+                )
             {
                 state = GolfState.WAITING_FOR_INPUT;
                 AskForNextTurn();
@@ -155,7 +175,8 @@ public struct YourTurnMessage : NetworkMessage
     
 }
 
-public struct IdMessage : NetworkMessage
+public struct InitMessage : NetworkMessage
 {
     public int Id;
+    public string StrategyName;
 }
