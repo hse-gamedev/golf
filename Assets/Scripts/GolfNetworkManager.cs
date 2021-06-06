@@ -5,11 +5,22 @@ using Mirror;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
+// Current game flow:
+// a) Wait for both players to join, then click Right Mouse Button.
+// Then the commands will get sent automatically from each player as the ball reaches BallStopVelocity.
+// b) Just start as a host and click Right Mouse Button.
+// The game will start with one player.
 public class GolfNetworkManager : NetworkManager
 {
-    public GameObject ballObject;
-    private LinkedList<NetworkConnection> players = new LinkedList<NetworkConnection>();
-    private bool gameStarted = false;
+    public float BallStopVelocity;
+    public float StrikePower;
+    
+// ===== SERVER =====
+    private int lastTurn = -1;
+    private Dictionary<int, NetworkConnection> players = new Dictionary<int, NetworkConnection>();
+    private GameObject ballObject;
+    private float lastStrikeTime;
+    private GolfState state = GolfState.WAITING_FOR_INPUT;
 
     public override void OnStartServer()
     {
@@ -21,28 +32,130 @@ public class GolfNetworkManager : NetworkManager
         NetworkServer.Spawn(ballObject);
         NetworkServer.RegisterHandler<MoveMessage>(OnPlayerMove);
     }
-
-    // Not needed now, but we can send messages to connections, and server will handle them
     public void OnPlayerMove(NetworkConnection conn, MoveMessage message)
     {
+        if (lastTurn == message.Id && players.Count > 1) return;
+        Debug.Log("Received turn from " + message.Id);
+        state = GolfState.WAITING_FOR_BALL_STOP;
+        lastTurn = message.Id;
+        lastStrikeTime = Time.time;
+        ballObject.GetComponent<Rigidbody>().AddForce(message.Strike);
     }
 
     public override void OnServerConnect(NetworkConnection conn)
     {
         base.OnServerConnect(conn);
-        ballObject.GetComponent<NetworkIdentity>().AssignClientAuthority(conn);
-        Debug.Log("Assigned auth on " + conn.connectionId);
-
-        players.AddLast(conn);
+        var id = conn.connectionId;
+        Debug.Log("Connected client on " + id);
+        players[id] = conn;
+        conn.Send(new IdMessage { Id = conn.connectionId });
     }
 
     public override void OnServerDisconnect(NetworkConnection conn)
     {
         base.OnServerDisconnect(conn);
-        players.Remove(conn);
+        players.Remove(conn.connectionId);
+    }
+    // ===== CLIENT =====
+
+    private NetworkConnection connection;
+    private int clientId;
+    
+    public void OnIdMessage(NetworkConnection conn, IdMessage message)
+    {
+        clientId = message.Id;
+    }   
+    
+    public void OnYourTurnMessage(NetworkConnection conn, YourTurnMessage message)
+    {
+        SendTurn();
+    }
+
+    public override void OnStartClient()
+    {
+        base.OnStartClient();
+        NetworkClient.RegisterHandler<IdMessage>(OnIdMessage);
+        NetworkClient.RegisterHandler<YourTurnMessage>(OnYourTurnMessage);
+    }
+
+    public override void OnClientConnect(NetworkConnection conn)
+    {
+        base.OnClientConnect(conn);
+        connection = conn;
+    }
+
+    private void SendTurn()
+    {
+        Vector3 dir = Random.insideUnitSphere * StrikePower;
+        dir.y = Math.Abs(dir.y);
+        Debug.Log("Sending turn");
+        connection.Send(new MoveMessage { Strike = dir, Id = clientId});
+    }
+    
+    private void AskForNextTurn()
+    {
+        NetworkConnection nextConn;
+        if (players.Count > 1)
+        {
+            nextConn = players.First(pair => pair.Key != lastTurn).Value;
+        }
+        else
+        {
+            nextConn = players.First().Value;
+        }
+
+        Debug.Log("Asking for next turn " + nextConn.connectionId);
+        nextConn.Send(new YourTurnMessage());
+    }
+
+// ===== COMMON =====
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            Debug.Log(ballObject.GetComponent<Rigidbody>().velocity.magnitude);
+        }
+        // This branch gets executed on server
+        if (mode == NetworkManagerMode.Host || mode == NetworkManagerMode.ServerOnly)
+        {
+            if (ballObject.GetComponent<Rigidbody>().velocity.magnitude < BallStopVelocity
+                && state == GolfState.WAITING_FOR_BALL_STOP
+                && Time.time - lastStrikeTime > 1.0f)
+            {
+                state = GolfState.WAITING_FOR_INPUT;
+                AskForNextTurn();
+            }
+        }
+        
+        // This branch gets executed on client
+        if (mode == NetworkManagerMode.Host || mode == NetworkManagerMode.ClientOnly)
+        {
+            if (connection != null && Input.GetKeyDown(KeyCode.Mouse1))
+            {
+                SendTurn();
+            }
+        }
     }
 }
 
-public struct MoveMessage : NetworkMessage {
-    public Vector3 strike; 
+public enum GolfState
+{
+    WAITING_FOR_BALL_STOP,
+    WAITING_FOR_INPUT
+}
+
+public struct MoveMessage : NetworkMessage 
+{
+    public Vector3 Strike;
+    public int Id;
+}
+
+public struct YourTurnMessage : NetworkMessage
+{
+    
+}
+
+public struct IdMessage : NetworkMessage
+{
+    public int Id;
 }
