@@ -49,12 +49,12 @@ public class FieldGenerator : MonoBehaviour
     {
         GameObject hole = Instantiate(
             holeTemplate, 
-            new Vector3(_holePosition.x * x * width, 0, _holePosition.y * z * height), 
+            new Vector3(_holePosition.x * x * width, -10, _holePosition.y * z * height), 
             Quaternion.identity
         );
-        hole.transform.localScale = new Vector3(_holeRadius, 0, _holeRadius);
+        hole.transform.localScale = new Vector3(_holeRadius * 10, 0, _holeRadius * 10);
         hole.name = "Hole";
-        // hole.transform.parent = parent.transform;
+        hole.transform.parent = parent.transform;
         return hole;
     }
 
