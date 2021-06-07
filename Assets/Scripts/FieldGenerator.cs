@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using UnityEditor;
 using UnityEngine;
 using Random = System.Random;
@@ -9,7 +9,7 @@ enum TerrainType
     ROCK
 }
 
-public class TerrainGenerator : MonoBehaviour
+public class FieldGenerator : MonoBehaviour
 {
 
     public int width = 256;
@@ -42,7 +42,7 @@ public class TerrainGenerator : MonoBehaviour
         _terrainTiles = new Terrain[x, z];
         
         CreateTerrain(gameObject);
-        CreateHoleWin(gameObject);
+        // CreateHoleWin(gameObject);
     }
 
     private GameObject CreateHoleWin(GameObject parent)
@@ -99,7 +99,7 @@ public class TerrainGenerator : MonoBehaviour
 
         tile.name = tileName;
         tile.transform.parent = parent.transform;
-        tile.transform.position = new Vector3(tileX * width - x * width / 2, -1, tileZ * height - z * height / 2);
+        tile.transform.position = new Vector3(tileX * width - x * width / 2, 0, tileZ * height - z * height / 2);
         return tile;
     }
 
@@ -139,7 +139,7 @@ public class TerrainGenerator : MonoBehaviour
             case TerrainType.GRASS:
                 return grassLayer;
             case TerrainType.ROCK:
-                return null;
+                return rockLayer;
         }
 
         return null;

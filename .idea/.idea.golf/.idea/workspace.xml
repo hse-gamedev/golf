@@ -11,13 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Implemented message-based communication between server and clients">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WinCollider.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/New Terrain 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Terrain 1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NewLayer 2.terrainlayer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NewLayer 2.terrainlayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/NewLayer.terrainlayer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HoleWin.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TerrainGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WinCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WinCollider.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +40,14 @@
     <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/NewLayer.terrainlayer.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/GolfNetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/ProjectSettings/GraphicsSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/WinCollider.cs.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scenes/MainScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sArEcsGQJHV5CqveSxpitiKkeh" />
