@@ -19,17 +19,24 @@ public class GolfNetworkManager : NetworkManager
     private int lastTurn = -1;
     private Dictionary<int, NetworkConnection> players = new Dictionary<int, NetworkConnection>();
     private GameObject ballObject;
+    private GameObject fieldObject;
     private float lastStrikeTime;
     private GolfState state = GolfState.WAITING_FOR_INPUT;
 
     public override void OnStartServer()
     {
         base.OnStartServer();
-        
+
+        var fieldPrefab = spawnPrefabs[1];
+        fieldObject = Instantiate(fieldPrefab);
+        fieldObject.name = "Field";
+        NetworkServer.Spawn(fieldObject);
+
         var ballPrefab = spawnPrefabs[0];
         ballObject = Instantiate(ballPrefab);
         ballObject.name = "BallName";
         NetworkServer.Spawn(ballObject);
+        
         NetworkServer.RegisterHandler<MoveMessage>(OnPlayerMove);
     }
     public void OnPlayerMove(NetworkConnection conn, MoveMessage message)
