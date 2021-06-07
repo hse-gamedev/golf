@@ -42,7 +42,7 @@ public class FieldGenerator : MonoBehaviour
         _terrainTiles = new Terrain[x, z];
         
         CreateTerrain(gameObject);
-        // CreateHoleWin(gameObject);
+        CreateHoleWin(gameObject);
     }
 
     private GameObject CreateHoleWin(GameObject parent)
@@ -53,7 +53,8 @@ public class FieldGenerator : MonoBehaviour
             Quaternion.identity
         );
         hole.transform.localScale = new Vector3(_holeRadius, 0, _holeRadius);
-        hole.transform.parent = parent.transform;
+        hole.name = "Hole";
+        // hole.transform.parent = parent.transform;
         return hole;
     }
 
@@ -189,7 +190,7 @@ public class FieldGenerator : MonoBehaviour
 
     private Vector2 GenerateHolePosition()
     {
-        return new Vector2(0.44f, 0.35f);
+        return new Vector2(0.14f, 0.11f);
     }
 
     private float[,] GenerateHeights(int tileX, int tileZ)
