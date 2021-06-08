@@ -59,10 +59,10 @@ public class FirstStrategy : GolfStrategy
             dir = Quaternion.Euler(0.0f, angle, 0.0f) * dir;
             dir = dir.normalized;
             force = dir * length * magnitude;
-            if (force.magnitude > magnitude)
-            {
-                force = force.normalized * magnitude;
-            }
+        }
+        if (force.magnitude > magnitude)
+        {
+            force = force.normalized * magnitude;
         }
 
         lastPosition = rb.position;
