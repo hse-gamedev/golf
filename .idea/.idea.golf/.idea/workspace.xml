@@ -10,17 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Implemented message-based communication between server and clients">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WinCollider.cs" afterDir="false" />
+    <list default="true" id="02a78ae2-37dc-4889-8ba8-57d9283876a6" name="Default Changelist" comment="Add prefabs">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golf/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HoleWin.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TerrainGenerator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WinCollider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/WinCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.golf/riderModule.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +29,28 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/New Terrain 1.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/NewLayer.terrainlayer.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/GolfStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/WinCollider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/WinCollider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/GolfNetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/ProjectSettings/GraphicsSettings.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/WinCollider.cs.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scenes/MainScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/user/Documents/study/gamedev/golf/golf/Assets/Scripts/GolfStrategy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/FieldGenerator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/WinCollider.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GolfNetworkManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GolfStrategy.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sArEcsGQJHV5CqveSxpitiKkeh" />
@@ -106,6 +109,7 @@
       <workItem from="1622793474052" duration="12000" />
       <workItem from="1622795069636" duration="4129000" />
       <workItem from="1622907085169" duration="4310000" />
+      <workItem from="1623184790180" duration="4390000" />
     </task>
     <task id="LOCAL-00001" summary="Add gitignore">
       <created>1620363452723</created>
@@ -149,7 +153,56 @@
       <option name="project" value="LOCAL" />
       <updated>1623091080431</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Field generation on server">
+      <created>1623095092375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623095092375</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add terrain shader">
+      <created>1623096456475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623096456476</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add hole">
+      <created>1623096781946</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623096781946</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix hole">
+      <created>1623097323160</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623097323160</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add strategies">
+      <created>1623189336841</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623189336842</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Limit force">
+      <created>1623189474614</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1623189474614</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add prefabs">
+      <created>1623190796935</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623190796935</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +229,13 @@
     <MESSAGE value="Tried to control ball from client" />
     <MESSAGE value="Implemented message-based communication between server and clients" />
     <MESSAGE value="Server terrain generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Server terrain generation" />
+    <MESSAGE value="Field generation on server" />
+    <MESSAGE value="Add terrain shader" />
+    <MESSAGE value="Add hole" />
+    <MESSAGE value="Fix hole" />
+    <MESSAGE value="Add strategies" />
+    <MESSAGE value="Limit force" />
+    <MESSAGE value="Add prefabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add prefabs" />
   </component>
 </project>
