@@ -57,7 +57,7 @@ public class GolfNetworkManager : NetworkManager
         players[id] = conn;
         
         // Choose strategy here
-        var strategyName = players.Count == 1 ? "random" : "up";
+        var strategyName = players.Count == 1 ? "second" : "first";
         
         conn.Send(new InitMessage { Id = conn.connectionId, StrategyName = strategyName });
     }
@@ -84,6 +84,12 @@ public class GolfNetworkManager : NetworkManager
                 break;
             case "up":
                 strategy = new UpStrategy();
+                break;
+            case "first":
+                strategy = new FirstStrategy();
+                break;
+            case "second":
+                strategy = new SecondStrategy();
                 break;
             // Add more strategies here
             default:
@@ -140,6 +146,8 @@ public class GolfNetworkManager : NetworkManager
         if (Input.GetKeyDown(KeyCode.S))
         {
             Debug.Log(ballObject.GetComponent<Rigidbody>().velocity.magnitude);
+            Debug.Log(state);
+            Debug.Log(mode);
         }
         // This branch gets executed on server
         if (mode == NetworkManagerMode.Host || mode == NetworkManagerMode.ServerOnly)
@@ -157,7 +165,7 @@ public class GolfNetworkManager : NetworkManager
         // This branch gets executed on client
         if (mode == NetworkManagerMode.Host || mode == NetworkManagerMode.ClientOnly)
         {
-            if (connection != null && Input.GetKeyDown(KeyCode.Mouse1))
+            if (connection != null && Input.GetKeyDown(KeyCode.G))
             {
                 SendTurn();
             }
