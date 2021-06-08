@@ -31,10 +31,11 @@ public class FieldGenerator : MonoBehaviour
     public GameObject holeTemplate;
     
     private Vector2 _holePosition;
-    private int _holeRadius = 10;
+    private int _holeRadius = 2;
 
     private Terrain[,] _terrainTiles;
-    
+    private Random random = new Random(32);
+
     // Start is called before the first frame update
     void Start()
     {
@@ -149,8 +150,7 @@ public class FieldGenerator : MonoBehaviour
     private TerrainType GenerateTerrainType(int tileX, int tileY)
     {
         Array values = Enum.GetValues(typeof(TerrainType));
-        Random random = new Random();
-        return (TerrainType)values.GetValue(random.Next(values.Length));
+        return (TerrainType)values.GetValue(this.random.Next(values.Length));
     }
     
     private TerrainData GenerateTerrainData(int tileX, int tileZ)

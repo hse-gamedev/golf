@@ -46,10 +46,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 256
   height: 256
-  x: 10
-  z: 10
-  depth: 40
-  scale: 10
+  x: 20
+  z: 20
+  depth: 50
+  scale: 30
   grassMaterial: {fileID: 13400000, guid: 169d7d9458ac44d14b7e999442b1d0ca, type: 2}
   rockMaterial: {fileID: 13400000, guid: 71620b4c868284549b050be0b8167dd4, type: 2}
   grassLayer: {fileID: 8574412962073106934, guid: ae2a925d05e6e460695408e6eed2b4a3,

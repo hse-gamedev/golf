@@ -30,7 +30,7 @@ public class UpStrategy : GolfStrategy
 
 public class FirstStrategy : GolfStrategy
 {
-    public float magnitude = 10f;
+    public float magnitude = 5f;
 
     private Vector3 lastPosition;
 
@@ -72,7 +72,7 @@ public class FirstStrategy : GolfStrategy
 
 public class SecondStrategy : GolfStrategy
 {
-    public float magnitude = 10f;
+    public float magnitude = 5f;
 
     private Vector3 lastPosition;
     private List<Tuple<Vector3, Vector3>> history = new List<Tuple<Vector3, Vector3>>();
