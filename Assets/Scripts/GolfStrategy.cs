@@ -40,8 +40,8 @@ public class FirstStrategy : GolfStrategy
 
     public Vector3 strike()
     {
-        GameObject ball = GameObject.Find("BallName");
-        GameObject hole = GameObject.Find("Hole");
+        GameObject ball = GameObject.FindWithTag("Ball");
+        GameObject hole = GameObject.FindWithTag("Hole");
         Vector3 target = hole.transform.position;
 
         Rigidbody rb = ball.GetComponent<Rigidbody>();
@@ -82,8 +82,8 @@ public class SecondStrategy : GolfStrategy
     private const float RAND_SHOT_MAGNITUDE = 50.0f;
 
     public Vector3 strike() {
-        GameObject ball = GameObject.Find("BallName");
-        GameObject hole = GameObject.Find("Hole");
+        GameObject ball = GameObject.FindWithTag("Ball");
+        GameObject hole = GameObject.FindWithTag("Hole");
         Vector3 target = hole.transform.position;
 
         Rigidbody rb = ball.GetComponent<Rigidbody>();
