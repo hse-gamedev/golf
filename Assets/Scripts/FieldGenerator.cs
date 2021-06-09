@@ -208,8 +208,25 @@ public class FieldGenerator : MonoBehaviour
     private float CalculateHeight(int tileX, int tileZ, int i, int j)
     {
         float xCoord = (float) (tileX * width + j) / (width * x) * scale;
-        float zCoord = (float) (tileZ * height + i) / (height * z) *scale;
-        return Mathf.PerlinNoise(xCoord, zCoord);
+        float zCoord = (float) (tileZ * height + i) / (height * z) * scale;
+        float target = Mathf.PerlinNoise(xCoord, zCoord) / 3;
+        if (tileX == x - 1)
+        {
+            target += ((float) j / height) * ((float) j / height);
+        }
+        if (tileX == 0)
+        {
+            target += ((float) (height - j) / height) * ((float) (height - j) / height);
+        }
+        if (tileZ == z - 1)
+        {
+            target += ((float) i / width) * ((float) i / width);
+        }
+        if (tileZ == 0)
+        {
+            target += ((float) (width - i) / width) * ((float) (width - i) / width);
+        }
+        return target;
     }
 
     private string GenerateTerrainTileName(int tileX, int tileZ)

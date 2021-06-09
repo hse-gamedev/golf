@@ -142,6 +142,12 @@ public class GolfNetworkManager : NetworkManager
 // ===== COMMON =====
     private void Update()
     {
+        if (ballObject == null && mode != NetworkManagerMode.Offline)
+        {
+            var ballPrefab = spawnPrefabs[0];
+            ballObject = Instantiate(ballPrefab);
+            NetworkServer.Spawn(ballObject);
+        }
         if (Input.GetKeyDown(KeyCode.S))
         {
             Debug.Log(ballObject.GetComponent<Rigidbody>().velocity.magnitude);
