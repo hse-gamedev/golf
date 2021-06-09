@@ -54,7 +54,6 @@ public class FieldGenerator : MonoBehaviour
             Quaternion.identity
         );
         hole.transform.localScale = new Vector3(_holeRadius * 10, 0, _holeRadius * 10);
-        hole.name = "Hole";
         hole.transform.parent = parent.transform;
         return hole;
     }

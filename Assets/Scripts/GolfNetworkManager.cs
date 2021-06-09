@@ -34,7 +34,6 @@ public class GolfNetworkManager : NetworkManager
 
         var ballPrefab = spawnPrefabs[0];
         ballObject = Instantiate(ballPrefab);
-        ballObject.name = "BallName";
         NetworkServer.Spawn(ballObject);
         
         NetworkServer.RegisterHandler<MoveMessage>(OnPlayerMove);

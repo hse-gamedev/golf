@@ -10,9 +10,9 @@ public class WinCollider : MonoBehaviour
 
     private void OnTriggerEnter(Collider collider)
     {
-        if (collider.gameObject.name == "BallName")
+        if (collider.gameObject.tag == "Ball")
         {
-            Debug.Log(collider.gameObject.name);
+            Debug.Log("Game over");
         }
     }
     
