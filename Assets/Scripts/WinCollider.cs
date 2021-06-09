@@ -1,4 +1,5 @@
 ﻿using System;
+using Mirror;
 using UnityEngine;
 
 public class WinCollider : MonoBehaviour
@@ -10,8 +11,9 @@ public class WinCollider : MonoBehaviour
 
     private void OnTriggerEnter(Collider collider)
     {
-        if (collider.gameObject.tag == "Ball")
+        if (collider.gameObject.tag == "Hole")
         {
+            Destroy(gameObject);
             Debug.Log("Game over");
         }
     }
