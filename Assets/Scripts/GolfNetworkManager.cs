@@ -142,7 +142,8 @@ public class GolfNetworkManager : NetworkManager
 // ===== COMMON =====
     private void Update()
     {
-        if (ballObject == null && mode != NetworkManagerMode.Offline)
+        bool isServer = mode == NetworkManagerMode.Host || mode == NetworkManagerMode.ServerOnly;
+        if (isServer && ballObject == null && mode != NetworkManagerMode.Offline)
         {
             var ballPrefab = spawnPrefabs[0];
             ballObject = Instantiate(ballPrefab);
