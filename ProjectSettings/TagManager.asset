@@ -7,6 +7,7 @@ TagManager:
   - Ball
   - BallTag
   - NetworkManagerTag
+  - Hole
   layers:
   - Default
   - TransparentFX
